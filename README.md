@@ -7,7 +7,7 @@ npm-shrinkwrap.lock for node > 14 (change to npm-shrinkwrap.json => npm i)
 #
 dumb db in the root dir
 #
-exapmle eatherly.ho.ua
+example eatherly.ho.ua
 #
 log file eatherly.ho.ua/2020-12-14.log
 #
