@@ -1,4 +1,4 @@
-# Gloabal_Team
+# Global_Team
 # gulp watch
 # gulp buildup
 # npm-shrinkwrap.lock for node > 14 (change to npm-shrinkwrap.json => npm i)
